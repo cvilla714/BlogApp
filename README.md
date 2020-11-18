@@ -24,9 +24,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Angela Vukadinovic**
 
-- GitHub: [https://github.com/410AngelaVu]
-- Twitter: [https://twitter.com/andjelavukadin7]
-- LinkedIn: [https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/]
+- GitHub: [@410AngelaVu](https://github.com/410AngelaVu)
+- Twitter: [@andjelavukadin7](https://twitter.com/andjelavukadin7)
+- LinkedIn:  [linkedin Profile](https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/)
 
 👤 **Devkc**
 
