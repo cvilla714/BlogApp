@@ -1,60 +1,38 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Blog App
 
-> One paragraph statement about the project.
+> Project was about creating a blog using rails it has
+>the functions of creating new blogs, editing and destroying blogs.
 
 ![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Ruby
+- Rails
+- Postgres
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- You need to have ruby install
+- Rails installed
+- Postgres
 
 ## Authors
 
-👤 **Author1**
+👤 **Angela Vukadinovic**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@410AngelaVu](https://github.com/410AngelaVu)
+- Twitter: [@andjelavukadin7](https://twitter.com/andjelavukadin7)
+- LinkedIn:  [linkedin Profile](https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/)
 
-👤 **Author2**
+👤 **Devkc**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
+- Github: [@cvilla714](https://github.com/cvilla714)
+- Twitter: [@kckeyti](https://twitter.com/kckeyti)
+- Linkedin: [linkedin Profile](https://www.linkedin.com/in/cosmel-villalobos-1900531aa/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -64,13 +42,3 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
